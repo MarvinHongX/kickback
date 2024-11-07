@@ -6,8 +6,8 @@ const { appStoreUrl, googlePlayUrl } = useImg();
 const headlineText = ref('');
 const subTitleText = ref('');
 
-const headline1 = "Are you ready to try";
-const headline2 = "Kickback?";
+const headline1 = "Are you ready to";
+const headline2 = "try Kickback?";
 const subTitle = "Kickback and connect—meet new people from around the world, anytime, anywhere.";
 
 onMounted(async () => {
